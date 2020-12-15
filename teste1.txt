@@ -1,1 +1,2 @@
 essa linha está sendo modificada no ramo master
+segunda linha adicionada no branch teste2
